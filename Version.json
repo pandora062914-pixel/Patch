@@ -1,12 +1,19 @@
 {
+  "version": "1.0.0",
+  "releaseDate": "2025-08-14",
+  "description": "초기 이미지 배포 버전입니다.",
   "files": [
     {
-      "name": "test",
-      "url": "https://github.com/pandora062914-pixel/Patch/blob/main/Data/test.img"
+      "name": "test.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.img",
+      "sha256": "여기에 test.img의 SHA256 해시값 입력",
+      "sig": "여기에 test.img의 서명(Base64) 입력"
     },
     {
-      "name": "test1",
-      "url": "https://github.com/pandora062914-pixel/Patch/blob/main/Data/test1.img"
+      "name": "test1.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test1.img",
+      "sha256": "여기에 test1.img의 SHA256 해시값 입력",
+      "sig": "여기에 test1.img의 서명(Base64) 입력"
     }
   ]
 }
