@@ -4,7 +4,7 @@
   "description": "초기 이미지 배포 버전입니다.",
   "files": [
     {
-      "name": "Data/test.img",
+      "name": "Data/test1.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test1.img"
     },
     {
@@ -17,6 +17,3 @@
     }
   ]
 }
-
-
-
