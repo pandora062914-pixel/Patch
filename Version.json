@@ -5,7 +5,7 @@
   "files": [
     {
       "name": "Data/test.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.img"
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test1.img"
     },
     {
       "name": "Data/test/test1.img",
@@ -17,5 +17,6 @@
     }
   ]
 }
+
 
 
