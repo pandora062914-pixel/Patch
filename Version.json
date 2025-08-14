@@ -6,14 +6,8 @@
     {
       "name": "test.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.img",
-      "sha256": "여기에 test.img의 SHA256 해시값 입력",
-      "sig": "여기에 test.img의 서명(Base64) 입력"
-    },
-    {
-      "name": "test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test1.img",
-      "sha256": "여기에 test1.img의 SHA256 해시값 입력",
-      "sig": "여기에 test1.img의 서명(Base64) 입력"
+      "sha256": "d951e0a45dce50f6d764296f5f7613d7a52124c141b3e8647a1df69be9065bc0",
+      "sig": "Ov7RKStF4BGLAaAgsWaNtyONWqahtZHA6xN6GY2e84swCSepI1lCwD6ZbK2d/Z8Lq/qojHZmX/SIMQ8LkKJhq6h2/jAUbi9PcYz5LYxWN4VxKd7MAd2k7+c3dVv+ZxYXlCfIEwK86mFdkWG+L3Wzzy7LAmlrLwi2tblq4UJXaS/t0+VrXAL+tTCUZ4u98RatHfFc2Aaer6/o6X/heXxYknZhOtJPlDkm70gjzh5jcs6PKk5m7oK4ZvrXASYO7zUEaOJue6DyFNkjdI4lWXmIPvbuyhMglPwvhx4qUYNXrV5HETDQhw8w0A8mXiv0CXMFcPz2kZbyrOOOkRCmw8EQiO1VMSH0ZW2c+a/5/st4e/D9i2nmTcrLiAhOaBUYf6wj/D43N2LwsdN/vsxMXniOTShrdWzvagDheivTTFVNAChei/xNme7pNNpI4+8eRcvZr5rUbvRny9Du3j3oXE9sgJECD0QA5KA0g+h3R3YdkcO0tBvjyivaGCTvfY4Ewg09Ug8Q4Zyv5aS/7SiSeuEF2/WNzP03+8JTU72Yfyq+4XniDsC6ADWLXZZ6gB21gZArKuZnrGW28NuCFOVF8iCd3KrleA/Ewdvi3mTmzUUttye/Tb/ePBO66R/1IBX501twiUZDe0T+jyZzAuw6FjDEUfxXu7If769UCn0s2Dg41HI="
     }
   ]
 }
