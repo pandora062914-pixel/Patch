@@ -1,31 +1,11 @@
 {
-  "updateVersion": "1.0.0814",
-  "updateDate": "2025-08-14",
+  "updateVersion": "1.0.0815",
+  "updateDate": "2025-08-15",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
-      "name": "test - \uBCF5\uC0AC\uBCF8 (2)/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test - \uBCF5\uC0AC\uBCF8 (2)/test1.img"
-    },
-    {
-      "name": "test - \uBCF5\uC0AC\uBCF8 (3)/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test - \uBCF5\uC0AC\uBCF8 (3)/test1.img"
-    },
-    {
-      "name": "test - \uBCF5\uC0AC\uBCF8 (4)/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test - \uBCF5\uC0AC\uBCF8 (4)/test1.img"
-    },
-    {
-      "name": "test - \uBCF5\uC0AC\uBCF8 (5)/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test - \uBCF5\uC0AC\uBCF8 (5)/test1.img"
-    },
-    {
-      "name": "test - \uBCF5\uC0AC\uBCF8/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test - \uBCF5\uC0AC\uBCF8/test1.img"
-    },
-    {
-      "name": "test/test1.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test/test1.img"
+      "name": "test.txt",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
     }
   ]
 }
