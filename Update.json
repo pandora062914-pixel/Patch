@@ -36,6 +36,10 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01142030.img"
     },
     {
+      "name": "Etc/Commodity.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Etc/Commodity.img"
+    },
+    {
       "name": "test.txt",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
     }
