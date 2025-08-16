@@ -1,8 +1,40 @@
 {
-  "updateVersion": "1.0.0816",
-  "updateDate": "2025-08-16",
+  "updateVersion": "1.0.0817",
+  "updateDate": "2025-08-17",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
+    {
+      "name": "Character/Accessory/01012632.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01012632.img"
+    },
+    {
+      "name": "Character/Accessory/01022278.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01022278.img"
+    },
+    {
+      "name": "Character/Accessory/01032153.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01032153.img"
+    },
+    {
+      "name": "Character/Accessory/01032316.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01032316.img"
+    },
+    {
+      "name": "Character/Accessory/01122109.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01122109.img"
+    },
+    {
+      "name": "Character/Accessory/01122430.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01122430.img"
+    },
+    {
+      "name": "Character/Accessory/01132180.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01132180.img"
+    },
+    {
+      "name": "Character/Accessory/01132308.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01132308.img"
+    },
     {
       "name": "Character/Accessory/01142002.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01142002.img"
@@ -34,6 +66,26 @@
     {
       "name": "Character/Accessory/01142030.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01142030.img"
+    },
+    {
+      "name": "Character/Cap/01002800.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Cap/01002800.img"
+    },
+    {
+      "name": "Character/Longcoat/01052167.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Longcoat/01052167.img"
+    },
+    {
+      "name": "Character/Ring/01113306.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Ring/01113306.img"
+    },
+    {
+      "name": "Character/Ring/01113316.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Ring/01113316.img"
+    },
+    {
+      "name": "Character/Shoes/01072368.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Shoes/01072368.img"
     },
     {
       "name": "Etc/Commodity.img",
