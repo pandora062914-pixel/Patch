@@ -22,6 +22,11 @@
     {
       "name": "test.txt",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
+    },
+    {
+      "name": "test.txt",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/patch/main/MapleStory.exe"
     }
   ]
 }
+
