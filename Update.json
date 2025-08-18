@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0818",
-  "updateDate": "2025-08-18",
+  "updateVersion": "1.0.0819",
+  "updateDate": "2025-08-19",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -10,6 +10,10 @@
     {
       "name": "Character/Accessory/01122004.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01122004.img"
+    },
+    {
+      "name": "Item/Consume/0202.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0202.img"
     },
     {
       "name": "Mob/9500385.img",
@@ -32,8 +36,36 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Quest/Say.img"
     },
     {
+      "name": "Skill/122.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/122.img"
+    },
+    {
+      "name": "Skill/210.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/210.img"
+    },
+    {
+      "name": "Skill/311.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/311.img"
+    },
+    {
+      "name": "Skill/312.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/312.img"
+    },
+    {
+      "name": "Skill/321.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/321.img"
+    },
+    {
       "name": "Skill/411.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/411.img"
+    },
+    {
+      "name": "Skill/420.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/420.img"
+    },
+    {
+      "name": "Skill/422.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/422.img"
     },
     {
       "name": "String/Eqp.img",
