@@ -16,8 +16,20 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Mob/9500385.img"
     },
     {
+      "name": "Quest/Check.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Quest/Check.img"
+    },
+    {
       "name": "Quest/QuestData/29001.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Quest/QuestData/29001.img"
+    },
+    {
+      "name": "Quest/QuestInfo.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Quest/QuestInfo.img"
+    },
+    {
+      "name": "Quest/Say.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Quest/Say.img"
     },
     {
       "name": "Skill/411.img",
