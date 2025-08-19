@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0819",
-  "updateDate": "2025-08-19",
+  "updateVersion": "1.0.0820",
+  "updateDate": "2025-08-20",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -10,6 +10,10 @@
     {
       "name": "Character/Accessory/01122004.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01122004.img"
+    },
+    {
+      "name": "Character/TamingMob/01902010.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/TamingMob/01902010.img"
     },
     {
       "name": "Item/Consume/0202.img",
