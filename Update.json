@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0821",
-  "updateDate": "2025-08-21",
+  "updateVersion": "1.0.0822",
+  "updateDate": "2025-08-22",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -32,8 +32,24 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0202.img"
     },
     {
+      "name": "Item/Etc/0400.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0400.img"
+    },
+    {
+      "name": "Item/Etc/0401.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0401.img"
+    },
+    {
+      "name": "Item/Etc/0402.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0402.img"
+    },
+    {
       "name": "Item/Etc/0403.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0403.img"
+    },
+    {
+      "name": "Item/Etc/0425.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0425.img"
     },
     {
       "name": "Mob/9500385.img",
