@@ -28,6 +28,10 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/TamingMob/01912006.img"
     },
     {
+      "name": "Character/TamingMob/01932000.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/TamingMob/01932000.img"
+    },
+    {
       "name": "Item/Consume/0202.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0202.img"
     },
@@ -118,6 +122,10 @@
     {
       "name": "String/Skill.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Skill.img"
+    },
+    {
+      "name": "TamingMob/0004.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/TamingMob/0004.img"
     },
     {
       "name": "test.txt",
