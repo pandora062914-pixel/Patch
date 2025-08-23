@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0822",
-  "updateDate": "2025-08-22",
+  "updateVersion": "1.0.0824",
+  "updateDate": "2025-08-24",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -10,6 +10,18 @@
     {
       "name": "Character/Accessory/01122004.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01122004.img"
+    },
+    {
+      "name": "Character/Cap/01002792.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Cap/01002792.img"
+    },
+    {
+      "name": "Character/Glove/01082241.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Glove/01082241.img"
+    },
+    {
+      "name": "Character/Shose/01072363.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Shose/01072363.img"
     },
     {
       "name": "Character/TamingMob/01902010.img",
@@ -34,6 +46,10 @@
     {
       "name": "Item/Consume/0202.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0202.img"
+    },
+    {
+      "name": "Item/Consume/0205.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0205.img"
     },
     {
       "name": "Item/Etc/0400.img",
@@ -84,6 +100,10 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/112.img"
     },
     {
+      "name": "Skill/121.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/121.img"
+    },
+    {
       "name": "Skill/122.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/122.img"
     },
@@ -122,6 +142,10 @@
     {
       "name": "String/Eqp.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Eqp.img"
+    },
+    {
+      "name": "String/Map.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Map.img"
     },
     {
       "name": "String/Skill.img",
