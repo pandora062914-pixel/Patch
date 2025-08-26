@@ -8,6 +8,10 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01012563.img"
     },
     {
+      "name": "Item/Etc/0400.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0400.img"
+    },
+    {
       "name": "Skill/121.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/121.img"
     },
@@ -18,6 +22,18 @@
     {
       "name": "Skill/312.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/312.img"
+    },
+    {
+      "name": "Skill/421.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/421.img"
+    },
+    {
+      "name": "Skill/511.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/511.img"
+    },
+    {
+      "name": "Skill/512.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/512.img"
     },
     {
       "name": "String/Etc.img",
