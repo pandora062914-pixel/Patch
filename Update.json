@@ -4,38 +4,6 @@
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
-      "name": "Character/Accessory/01012563.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01012563.img"
-    },
-    {
-      "name": "Item/Etc/0400.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0400.img"
-    },
-    {
-      "name": "Skill/121.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/121.img"
-    },
-    {
-      "name": "Skill/131.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/131.img"
-    },
-    {
-      "name": "Skill/312.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/312.img"
-    },
-    {
-      "name": "Skill/511.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/511.img"
-    },
-    {
-      "name": "String/Etc.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Etc.img"
-    },
-    {
-      "name": "String/Skill.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Skill.img"
-    },
-    {
       "name": "test.txt",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
     }
