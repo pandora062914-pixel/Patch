@@ -1,35 +1,71 @@
 {
-  "updateVersion": "1.0.0827",
-  "updateDate": "2025-08-27",
+  "updateVersion": "1.0.0828",
+  "updateDate": "2025-08-28",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
-      "name": "Data/Character/Shoes/01072363.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/Character/Shoes/01072363.img"
+      "name": "Character/Cap/01002793.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Cap/01002793.img"
     },
     {
-      "name": "Data/Item/Consume/0204.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/Item/Consume/0204.img"
+      "name": "Character/Shoes/01072363.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Shoes/01072363.img"
     },
     {
-      "name": "Data/Mob/9420521.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/Mob/9420521.img"
+      "name": "Item/Consume/0204.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0204.img"
     },
     {
-      "name": "Data/Mob/9420522.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/Mob/9420522.img"
+      "name": "Mob/9420521.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Mob/9420521.img"
     },
     {
-      "name": "Data/Skill/122.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/Skill/122.img"
+      "name": "Mob/9420522.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Mob/9420522.img"
     },
     {
-      "name": "Data/String/Consume.img",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/String/Consume.img"
+      "name": "Skill/000.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/000.img"
     },
     {
-      "name": "Data/test.txt",
-      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Data/test.txt"
+      "name": "Skill/112.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/112.img"
+    },
+    {
+      "name": "Skill/121.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/121.img"
+    },
+    {
+      "name": "Skill/122.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/122.img"
+    },
+    {
+      "name": "Skill/131.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/131.img"
+    },
+    {
+      "name": "Skill/321.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/321.img"
+    },
+    {
+      "name": "Skill/422.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/422.img"
+    },
+    {
+      "name": "Skill/512.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/512.img"
+    },
+    {
+      "name": "String/Consume.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Consume.img"
+    },
+    {
+      "name": "String/Skill.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Skill.img"
+    },
+    {
+      "name": "test.txt",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
     }
   ]
 }
