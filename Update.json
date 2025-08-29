@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0828",
-  "updateDate": "2025-08-28",
+  "updateVersion": "1.0.0829",
+  "updateDate": "2025-08-29",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -52,8 +52,24 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/422.img"
     },
     {
+      "name": "Skill/500.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/500.img"
+    },
+    {
+      "name": "Skill/510.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/510.img"
+    },
+    {
+      "name": "Skill/511.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/511.img"
+    },
+    {
       "name": "Skill/512.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/512.img"
+    },
+    {
+      "name": "Skill/520.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/520.img"
     },
     {
       "name": "String/Consume.img",
