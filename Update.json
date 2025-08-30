@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0829",
-  "updateDate": "2025-08-29",
+  "updateVersion": "1.0.0830",
+  "updateDate": "2025-08-30",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -14,6 +14,10 @@
     {
       "name": "Item/Consume/0204.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0204.img"
+    },
+    {
+      "name": "Item/Etc/0400.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Etc/0400.img"
     },
     {
       "name": "Mob/9420521.img",
