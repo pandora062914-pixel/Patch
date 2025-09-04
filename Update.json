@@ -1,11 +1,263 @@
 {
-  "updateVersion": "1.0.0904",
-  "updateDate": "2025-09-04",
+  "updateVersion": "1.0.0905",
+  "updateDate": "2025-09-05",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
       "name": "Character/00002000.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002000.img"
+    },
+    {
+      "name": "Character/00002015.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002015.img"
+    },
+    {
+      "name": "Character/00002016.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002016.img"
+    },
+    {
+      "name": "Character/00002018.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002018.img"
+    },
+    {
+      "name": "Character/00002019.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002019.img"
+    },
+    {
+      "name": "Character/00002020.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002020.img"
+    },
+    {
+      "name": "Character/00002021.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002021.img"
+    },
+    {
+      "name": "Character/00002022.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002022.img"
+    },
+    {
+      "name": "Character/00002023.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002023.img"
+    },
+    {
+      "name": "Character/00002024.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002024.img"
+    },
+    {
+      "name": "Character/00002025.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002025.img"
+    },
+    {
+      "name": "Character/00002026.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002026.img"
+    },
+    {
+      "name": "Character/00002027.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002027.img"
+    },
+    {
+      "name": "Character/00002028.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002028.img"
+    },
+    {
+      "name": "Character/00002029.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002029.img"
+    },
+    {
+      "name": "Character/00002030.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002030.img"
+    },
+    {
+      "name": "Character/00002032.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002032.img"
+    },
+    {
+      "name": "Character/00002033.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002033.img"
+    },
+    {
+      "name": "Character/00002034.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002034.img"
+    },
+    {
+      "name": "Character/00002035.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002035.img"
+    },
+    {
+      "name": "Character/00002036.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002036.img"
+    },
+    {
+      "name": "Character/00002037.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002037.img"
+    },
+    {
+      "name": "Character/00002038.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002038.img"
+    },
+    {
+      "name": "Character/00002039.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002039.img"
+    },
+    {
+      "name": "Character/00002040.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002040.img"
+    },
+    {
+      "name": "Character/00002041.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002041.img"
+    },
+    {
+      "name": "Character/00002042.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002042.img"
+    },
+    {
+      "name": "Character/00002043.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002043.img"
+    },
+    {
+      "name": "Character/00002044.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002044.img"
+    },
+    {
+      "name": "Character/00002045.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002045.img"
+    },
+    {
+      "name": "Character/00002046.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002046.img"
+    },
+    {
+      "name": "Character/00002047.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00002047.img"
+    },
+    {
+      "name": "Character/00012015.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012015.img"
+    },
+    {
+      "name": "Character/00012016.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012016.img"
+    },
+    {
+      "name": "Character/00012018.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012018.img"
+    },
+    {
+      "name": "Character/00012019.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012019.img"
+    },
+    {
+      "name": "Character/00012020.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012020.img"
+    },
+    {
+      "name": "Character/00012021.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012021.img"
+    },
+    {
+      "name": "Character/00012022.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012022.img"
+    },
+    {
+      "name": "Character/00012023.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012023.img"
+    },
+    {
+      "name": "Character/00012024.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012024.img"
+    },
+    {
+      "name": "Character/00012025.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012025.img"
+    },
+    {
+      "name": "Character/00012026.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012026.img"
+    },
+    {
+      "name": "Character/00012027.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012027.img"
+    },
+    {
+      "name": "Character/00012028.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012028.img"
+    },
+    {
+      "name": "Character/00012029.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012029.img"
+    },
+    {
+      "name": "Character/00012030.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012030.img"
+    },
+    {
+      "name": "Character/00012032.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012032.img"
+    },
+    {
+      "name": "Character/00012033.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012033.img"
+    },
+    {
+      "name": "Character/00012034.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012034.img"
+    },
+    {
+      "name": "Character/00012035.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012035.img"
+    },
+    {
+      "name": "Character/00012036.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012036.img"
+    },
+    {
+      "name": "Character/00012037.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012037.img"
+    },
+    {
+      "name": "Character/00012038.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012038.img"
+    },
+    {
+      "name": "Character/00012039.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012039.img"
+    },
+    {
+      "name": "Character/00012040.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012040.img"
+    },
+    {
+      "name": "Character/00012041.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012041.img"
+    },
+    {
+      "name": "Character/00012042.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012042.img"
+    },
+    {
+      "name": "Character/00012043.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012043.img"
+    },
+    {
+      "name": "Character/00012044.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012044.img"
+    },
+    {
+      "name": "Character/00012045.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012045.img"
+    },
+    {
+      "name": "Character/00012046.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012046.img"
+    },
+    {
+      "name": "Character/00012047.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012047.img"
+    },
+    {
+      "name": "Character/00012048.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/00012048.img"
     },
     {
       "name": "Character/Cape/01102172.img",
