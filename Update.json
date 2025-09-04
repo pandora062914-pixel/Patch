@@ -8,6 +8,14 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Mob/8210003.img"
     },
     {
+      "name": "Skill/112.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/112.img"
+    },
+    {
+      "name": "String/Skill.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Skill.img"
+    },
+    {
       "name": "test.txt",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/test.txt"
     }
