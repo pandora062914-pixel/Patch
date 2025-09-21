@@ -1,8 +1,48 @@
 {
-  "updateVersion": "1.0.0921",
-  "updateDate": "2025-09-21",
+  "updateVersion": "1.0.0922",
+  "updateDate": "2025-09-22",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
+    {
+      "name": "Character/PetEquip/01802000.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802000.img"
+    },
+    {
+      "name": "Character/PetEquip/01802001.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802001.img"
+    },
+    {
+      "name": "Character/PetEquip/01802002.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802002.img"
+    },
+    {
+      "name": "Character/PetEquip/01802003.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802003.img"
+    },
+    {
+      "name": "Character/PetEquip/01802004.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802004.img"
+    },
+    {
+      "name": "Character/PetEquip/01802005.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802005.img"
+    },
+    {
+      "name": "Character/PetEquip/01802006.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802006.img"
+    },
+    {
+      "name": "Character/PetEquip/01802007.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802007.img"
+    },
+    {
+      "name": "Character/PetEquip/01802008.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802008.img"
+    },
+    {
+      "name": "Character/PetEquip/01802009.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802009.img"
+    },
     {
       "name": "String/Ins.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Ins.img"
