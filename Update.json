@@ -1,8 +1,16 @@
 {
-  "updateVersion": "1.0.0924",
-  "updateDate": "2025-09-24",
+  "updateVersion": "1.0.0925",
+  "updateDate": "2025-09-25",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
+    {
+      "name": "Character/Accessory/01022289.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01022289.img"
+    },
+    {
+      "name": "Character/Accessory/01132321.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Accessory/01132321.img"
+    },
     {
       "name": "Character/PetEquip/01802000.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802000.img"
@@ -44,12 +52,36 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/PetEquip/01802009.img"
     },
     {
+      "name": "Character/Ring/01112127.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Ring/01112127.img"
+    },
+    {
+      "name": "Character/Ring/01112403.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Character/Ring/01112403.img"
+    },
+    {
+      "name": "Item/Consume/0207.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0207.img"
+    },
+    {
+      "name": "Item/Consume/0233.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Consume/0233.img"
+    },
+    {
+      "name": "Item/Install/0399.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Item/Install/0399.img"
+    },
+    {
       "name": "Map/Map/Map8/800000000.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Map/Map/Map8/800000000.img"
     },
     {
       "name": "Skill/422.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/422.img"
+    },
+    {
+      "name": "String/Consume.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Consume.img"
     },
     {
       "name": "String/Eqp.img",
@@ -62,6 +94,10 @@
     {
       "name": "String/Skill.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Skill.img"
+    },
+    {
+      "name": "UI/UIWindow.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/UI/UIWindow.img"
     },
     {
       "name": "test.txt",
