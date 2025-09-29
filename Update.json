@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.0.0925",
-  "updateDate": "2025-09-25",
+  "updateVersion": "1.0.0929",
+  "updateDate": "2025-09-29",
   "notes": "\uAD00\uB9AC\uC790\uC6A9 \uC790\uB3D9 \uC0DD\uC131 \uC5C5\uB370\uC774\uD2B8 \uD30C\uC77C\uC785\uB2C8\uB2E4.",
   "files": [
     {
@@ -76,6 +76,10 @@
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Map/Map/Map8/800000000.img"
     },
     {
+      "name": "Npc/9001221.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Npc/9001221.img"
+    },
+    {
       "name": "Skill/422.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/Skill/422.img"
     },
@@ -98,6 +102,10 @@
     {
       "name": "String/Ins.img",
       "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Ins.img"
+    },
+    {
+      "name": "String/Npc.img",
+      "url": "https://raw.githubusercontent.com/pandora062914-pixel/Patch/main/Data/String/Npc.img"
     },
     {
       "name": "String/Skill.img",
